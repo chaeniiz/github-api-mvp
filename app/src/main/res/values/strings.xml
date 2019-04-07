@@ -2,5 +2,5 @@
     <string name="app_name">github-api-example</string>
     <string name="name_input_edit_text">write your name here</string>
     <string name="get_user_info_button">get user info</string>
-    <string name="fetch_data_error">Occured error during fetch data</string>
+    <string name="fetch_data_error">can not find user</string>
 </resources>

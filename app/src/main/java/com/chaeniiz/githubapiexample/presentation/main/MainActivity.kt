@@ -20,8 +20,8 @@ class MainActivity : AppCompatActivity(), MainView {
         }
     }
 
-    override fun startDetailActivity(name: String, avatarUrl: String) {
-        DetailActivity.start(this, name, avatarUrl)
+    override fun startDetailActivity(name: String) {
+        DetailActivity.start(this, name)
     }
 
     override fun showErrorToast() {
